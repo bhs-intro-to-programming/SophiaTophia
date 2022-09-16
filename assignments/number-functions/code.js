@@ -1,4 +1,4 @@
-const add = (a, b) => {
-  return a + a;
+let add = (a, b) => {
+  return a + b;
 };
 
